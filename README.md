@@ -2,7 +2,7 @@ Group:
 - avery allen
 - ben lublin
 - devon brown
-- jacon nichols
+- jacob nichols
 - jaymie brower
 
 Dice Roller
